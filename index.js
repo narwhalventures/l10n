@@ -3,7 +3,7 @@ const t = require("string-template")
 
 let languages = {}
 
-const languageFiles = fs.readdirSync(__dirname).filter((file) => file.endsWith(".json") && !file.startsWith("package"))
+const languageFiles = fs.readdirSync(__dirname + "/languages").filter((file) => file.endsWith(".json") && !file.startsWith("package"))
 for (const file of languageFiles) {
     const language = require(`./${file}`)
     languages[`${file.split(`.`).shift()}`] = language
