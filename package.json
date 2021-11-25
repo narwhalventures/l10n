@@ -1,0 +1,23 @@
+{
+  "name": "l10n",
+  "version": "1.0.0",
+  "description": "Translations for The Narwhal",
+  "main": "index.js",
+  "dependencies": {
+    "string-template": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narwhalventures/l10n.git"
+  },
+  "author": "Shadow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narwhalventures/l10n/issues"
+  },
+  "homepage": "https://github.com/narwhalventures/l10n#readme"
+}
