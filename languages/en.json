@@ -25,5 +25,6 @@
     "giveawayEnded": "This giveaway has already ended!",
     "giveawayEnter": "You have successfully entered the giveaway!",
     "giveawayEntered": "You have already entered this giveaway!",
-    "giveawayServerLimit": "You have reached the limit of servers you may enter in. Try using items to boost your entries instead."
+    "giveawayServerLimit": "You have reached the limit of servers you may enter in. Try using items to boost your entries instead.",
+    "languageSet": "Your language has been set to {language}!"
 }
