@@ -5,7 +5,7 @@ let languages = {}
 
 const languageFiles = fs.readdirSync(__dirname + "/languages").filter((file) => file.endsWith(".json") && !file.startsWith("package"))
 for (const file of languageFiles) {
-    const language = require(`./${file}`)
+    const language = require(`./languages/${file}`)
     languages[`${file.split(`.`).shift()}`] = language
 }
 
