@@ -7,6 +7,8 @@
     "commandCooldown": "You can use this command again {timer}",
     "ping": "Ping! {time} ms",
     "setupSuccess": "You have successfully set the guild's settings!",
+    "setupNotComplete": "This server has not been setup yet!",
+    "noPermission": "You do not have permission to use this command!",
     "votedAlready": "You've already voted in the last 12 hours! You may vote again {timer}.",
     "votedSuccess": "Thanks for voting! You've earned {amount} {prize}!",
     "voteLink": "Vote on Top.gg",
