@@ -25,5 +25,8 @@
     "giveawayEnded": "Pemberian hadiah ini telah tamat!",
     "giveawayEnter": "Anda telah menyertai pemberian hadiah ini dengan berjaya!",
     "giveawayEntered": "Anda sudah menyertai pemberian hadiah ini 🤔!",
-    "giveawayServerLimit": "Anda telah mencapai had untuk menyertai pemberian hadiah dalam server. Cuba menggunakan item-item anda untuk mendapat penyertaan lagi."
+    "giveawayServerLimit": "Anda telah mencapai had untuk menyertai pemberian hadiah dalam server. Cuba menggunakan item-item anda untuk mendapat penyertaan lagi.",
+    "languageSet": "Bahasa anda telah ditetapkan ke {language}!",
+    "setupNotComplete": "Server ini belum membuat tetapan lagi!",
+    "noPermission": "Anda tidak mempunyai hak untuk menggunakan perintah ini!"
 }
