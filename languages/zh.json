@@ -25,5 +25,8 @@
     "giveawayEnded": "",
     "giveawayEnter": "",
     "giveawayEntered": "",
-    "giveawayServerLimit": ""
+    "giveawayServerLimit": "",
+    "languageSet": "",
+    "setupNotComplete": "",
+    "noPermission": ""
 }
