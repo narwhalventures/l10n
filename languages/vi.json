@@ -13,7 +13,7 @@
     "votedNo": "Bình chọn cho Kỳ Lân Biển trên Top.gg cứ sau 12 giờ để nhận phần thưởng!\nMột khi bạn đã bình chọn, dùng lại lệnh này để nhận phần thưởng!\nNếu bạn vẫn còn thấy dòng chữ này sau khi bạn đã bỏ phiếu, hãy đợi vài phút rồi thử lại sau.",
     "itemInvalid": "Vật phẩm không hợp lệ!",
     "itemHasNone": "Bạn không có món vật phẩm đó!",
-    "giveawaysNoneActive": "Hiện tại không có phần phát quà nào đang diễn ra hiện tại. Vui lòng thử lại sau.",
+    "giveawaysNoneActive": "Hiện tại không có phần phát quà nào đang diễn ra. Vui lòng thử lại sau.",
     "itemFedRecently": "Bạn đã cho con Kỳ Lân Biển ăn gần đây!",
     "itemFeed": "Kỳ Lân Biển vui vẻ đón nhận {item} và thưởng cho bạn {amount} {reward}!",
     "inventoryTitle": "Rương đồ của Bạn",
@@ -26,7 +26,7 @@
     "giveawayEnter": "Bạn đã tham gia thành công phần trao quà!",
     "giveawayEntered": "Bạn đã tham gia phần trao quà này!",
     "giveawayServerLimit": "Bạn đã đạt đến giới hạn máy chủ mà bạn có thể tham gia vào. Hãy dùng vật phẩm để tăng phần trăm của bạn thay vào đó.",
-    "languageSet": "Ngôn ngữ cảu bạn đã được đổi thành {language}!",
+    "languageSet": "Ngôn ngữ của bạn đã được đổi thành {language}!",
     "setupNotComplete": "Máy chủ chưa được thiết lập!",
     "noPermission": "Bạn không có quyền để dùng lệnh này!"
 }
