@@ -14,7 +14,7 @@
     "itemInvalid": "That item is invalid!",
     "itemHasNone": "You don't have that item!",
     "giveawaysNoneActive": "There are no active giveaways right now. Please try again later.",
-    "itemFedRecently": "You have already fed The Narwhal recently!",
+    "itemFedRecently": "You’ve fed The Narwhal recently, please wait for a while to feed me again.",
     "itemFeed": "The Narwhal happily takes your {item}, and rewards you with {amount} {reward}!",
     "inventoryTitle": "Your Inventory",
     "inventoryEmpty": "Your inventory is empty!",
