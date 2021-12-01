@@ -14,7 +14,7 @@
     "itemInvalid": "That item is invalid!",
     "itemHasNone": "You don't have that item!",
     "giveawaysNoneActive": "There are no active giveaways right now. Please try again later.",
-    "itemFedRecently": "You’ve fed The Narwhal recently, please wait for a while to feed me again.",
+    "itemFedRecently": "You have already fed The Narwhal recently!",
     "itemFeed": "The Narwhal happily takes your {item}, and rewards you with {amount} {reward}!",
     "inventoryTitle": "Your Inventory",
     "inventoryEmpty": "Your inventory is empty!",
@@ -28,5 +28,15 @@
     "giveawayServerLimit": "You have reached the limit of servers you may enter in. Try using items to boost your entries instead.",
     "languageSet": "Your language has been set to {language}!",
     "setupNotComplete": "This server has not been setup yet!",
-    "noPermission": "You do not have permission to use this command!"
+    "noPermission": "You do not have permission to use this command!",
+    "boxNotFound": "That box doesn't exist!",
+    "botUnavailable": "That box is currently unavailable!",
+    "purchase": "Purchase",
+    "cancel": "Cancel",
+    "notEnoughPrice": "You don't have enough {item} to buy that box!",
+    "purchaseConfirm": "Would you like to purchase this box for {price}?",
+    "boxHasNone": "You don't have that box",
+    "boxOpen": "Open Box",
+    "boxNoItems": "Unfortunately, you didn't get anything from this box. Better luck next time!",
+    "boxOpenHeader": "Your Prizes"
 }
