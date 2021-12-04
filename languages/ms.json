@@ -28,5 +28,15 @@
     "giveawayServerLimit": "Anda telah mencapai had untuk menyertai pemberian hadiah dalam server. Cuba menggunakan item-item anda untuk mendapat penyertaan lagi.",
     "languageSet": "Bahasa anda telah ditetapkan ke {language}!",
     "setupNotComplete": "Server ini belum membuat tetapan lagi!",
-    "noPermission": "Anda tidak mempunyai hak untuk menggunakan perintah ini!"
+    "noPermission": "Anda tidak mempunyai hak untuk menggunakan perintah ini!",
+    "boxNotFound": "",
+    "botUnavailable": "",
+    "purchase": "",
+    "cancel": "",
+    "notEnoughPrice": "",
+    "purchaseConfirm": "",
+    "boxHasNone": "",
+    "boxOpen": "",
+    "boxNoItems": "",
+    "boxOpenHeader": ""
 }
