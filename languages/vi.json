@@ -28,5 +28,15 @@
     "giveawayServerLimit": "Bạn đã đạt đến giới hạn máy chủ mà bạn có thể tham gia vào. Hãy dùng vật phẩm để tăng phần trăm của bạn thay vào đó.",
     "languageSet": "Ngôn ngữ của bạn đã được đổi thành {language}!",
     "setupNotComplete": "Máy chủ chưa được thiết lập!",
-    "noPermission": "Bạn không có quyền để dùng lệnh này!"
+    "noPermission": "Bạn không có quyền để dùng lệnh này!",
+    "boxNotFound": "Hộp này không tồn tại!",
+    "botUnavailable": "Hộp này hiện không có sẵn!",
+    "purchase": "Mua",
+    "cancel": "Hủy",
+    "notEnoughPrice": "Bạn không có đủ {item} để mua hộp này!",
+    "purchaseConfirm": "Bạn có muốn mua hộp này với giá {price}?",
+    "boxHasNone": "Bạn không sở hữu hộp đó",
+    "boxOpen": "Mở Hộp",
+    "boxNoItems": "Không may, bạn không nhận được gì từ hộp này. Chúc may mắn lần sau!",
+    "boxOpenHeader": "Phần thưởng của Bạn"
 }
