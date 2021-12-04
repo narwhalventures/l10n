@@ -19,7 +19,7 @@
     "inventoryTitle": "",
     "inventoryEmpty": "",
     "playSuccess": "耶，这真好玩！你得到了 {amount} {reward}!",
-    "redeemSuccess": "",
+    "redeemSuccess": "耶！你得到了 {item} 和 {amount} {reward}.",
     "redeemBonus": "",
     "movedToSlash": "",
     "giveawayEnded": "",
@@ -28,5 +28,15 @@
     "giveawayServerLimit": "",
     "languageSet": "您的语言已设置为 {language}!",
     "setupNotComplete": "",
-    "noPermission": ""
+    "noPermission": "",
+    "boxNotFound": "这盒子不存在！",
+    "botUnavailable": "",
+    "purchase": "",
+    "cancel": "取消",
+    "notEnoughPrice": "你没有够多{item}来买这个盒子！",
+    "purchaseConfirm": "",
+    "boxHasNone": "你没有这个盒子",
+    "boxOpen": "打开盒子",
+    "boxNoItems": "",
+    "boxOpenHeader": ""
 }
