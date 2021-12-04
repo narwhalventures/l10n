@@ -28,5 +28,15 @@
     "giveawayServerLimit": "",
     "languageSet": "",
     "setupNotComplete": "",
-    "noPermission": ""
+    "noPermission": "",
+    "boxNotFound": "",
+    "botUnavailable": "",
+    "purchase": "",
+    "cancel": "",
+    "notEnoughPrice": "",
+    "purchaseConfirm": "",
+    "boxHasNone": "",
+    "boxOpen": "",
+    "boxNoItems": "",
+    "boxOpenHeader": ""
 }
