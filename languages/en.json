@@ -40,5 +40,21 @@
   "boxOpen": "Open Box",
   "boxNoItems": "Unfortunately, you didn't get anything from this box. Better luck next time!",
   "boxOpenHeader": "Your Prizes",
-  "buttonWrongUser": "This button is not for you!"
+  "buttonWrongUser": "This button is not for you!",
+  "helpTitle": "What is The Narwhal?",
+  "helpDescription": "**The Narwhal** is a bot that runs cross-server Nitro giveaways in __this server__ for free. How does that work? The same giveaway is run in all the servers that use the bot.\n\nIt makes servers more active, and gives everyone a chance to win Nitro! Invite the bot to your server by clicking the button below.",
+  "commands": "Commands",
+  "cmdDescriptionSetup": "Used to set up the bot. (Admin only)",
+  "cmdDescriptionPlay": "Gives you a random item that could give you more entries in the giveaway.",
+  "cmdDescriptionFeed": "If you get any fish, you can feed them to The Narwhal using this command.",
+  "cmdDescriptionInventory": "Shows you your inventory.",
+  "cmdDescriptionVote": "Gives you the link to vote for the bot and gives you prizes for voting.",
+  "cmdDescriptionHelp": "This command, gives you help.",
+  "cmdDescriptionNarwhal": "Gives you a random fun fact about Narwhals.",
+  "cmdDescriptionConfig": "Allows you to change your bot language.",
+  "cmdDescriptionRedeem": "Used to redeem an item.",
+  "cmdDescriptionOpen": "Used to open gift bags and boxes.",
+  "cmdDescriptionItem": "Gives you information about an item.",
+  "cmdDescriptionBuy": "Gives you the opportunity to buy any gift bags/boxes for sale."
 }
+
