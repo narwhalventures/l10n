@@ -38,5 +38,7 @@
     "boxHasNone": "Du besitzt diese Box nicht!",
     "boxOpen": "Öffne die Box",
     "boxNoItems": "Leider hast du nichts aus dieser Box bekommen. Bestimmt hast du mehr Glück beim nächsten Mal!",
-    "boxOpenHeader": "Deine Preise"
+    "boxOpenHeader": "Deine Preise",
+    "inventoryBoxes": "Deine Boxen",
+    "buttonWrongUser": ""
 }
