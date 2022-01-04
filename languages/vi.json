@@ -38,5 +38,7 @@
     "boxHasNone": "Bạn không sở hữu hộp đó",
     "boxOpen": "Mở Hộp",
     "boxNoItems": "Không may, bạn không nhận được gì từ hộp này. Chúc may mắn lần sau!",
-    "boxOpenHeader": "Phần thưởng của Bạn"
+    "boxOpenHeader": "Phần thưởng của Bạn",
+    "inventoryBoxes": "Hộp của Bạn",
+    "buttonWrongUser": ""
 }
