@@ -40,5 +40,20 @@
     "boxNoItems": "Leider hast du nichts aus dieser Box bekommen. Bestimmt hast du mehr Glück beim nächsten Mal!",
     "boxOpenHeader": "Deine Preise",
     "inventoryBoxes": "Deine Boxen",
-    "buttonWrongUser": ""
+    "buttonWrongUser": "Dieser Button ist nicht für dich!",
+    "helpTitle": "Was ist der Narwal?",
+    "helpDescription": "",
+    "commands": "Befehle",
+    "cmdDescriptionSetup": "",
+    "cmdDescriptionPlay": "",
+    "cmdDescriptionFeed": "",
+    "cmdDescriptionInventory": "Zeigt dein Inventar",
+    "cmdDescriptionVote": "Gibt dir den Link, um für den Bot abzustimmen und für das Abstimmen bekommst du auch Preise.",
+    "cmdDescriptionHelp": "",
+    "cmdDescriptionNarwhal": "",
+    "cmdDescriptionConfig": "",
+    "cmdDescriptionRedeem": "",
+    "cmdDescriptionOpen": "",
+    "cmdDescriptionItem": "",
+    "cmdDescriptionBuy": ""
 }
