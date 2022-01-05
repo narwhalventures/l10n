@@ -40,5 +40,20 @@
     "boxNoItems": "",
     "boxOpenHeader": "",
     "inventoryBoxes": "",
-    "buttonWrongUser": ""
+    "buttonWrongUser": "",
+    "helpTitle": "",
+    "helpDescription": "",
+    "commands": "",
+    "cmdDescriptionSetup": "",
+    "cmdDescriptionPlay": "",
+    "cmdDescriptionFeed": "",
+    "cmdDescriptionInventory": "",
+    "cmdDescriptionVote": "",
+    "cmdDescriptionHelp": "",
+    "cmdDescriptionNarwhal": "",
+    "cmdDescriptionConfig": "",
+    "cmdDescriptionRedeem": "",
+    "cmdDescriptionOpen": "",
+    "cmdDescriptionItem": "",
+    "cmdDescriptionBuy": ""
 }
