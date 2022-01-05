@@ -40,5 +40,20 @@
     "boxNoItems": "Không may, bạn không nhận được gì từ hộp này. Chúc may mắn lần sau!",
     "boxOpenHeader": "Phần thưởng của Bạn",
     "inventoryBoxes": "Hộp của Bạn",
-    "buttonWrongUser": ""
+    "buttonWrongUser": "Nút này không dành cho bạn!",
+    "helpTitle": "The Narwhal là gì?",
+    "helpDescription": "**The Narwhal** là một con bot chạy quà tặng Nitro trên nhiều máy chủ trong _máy chủ này_miễn phí. Nó hoạt động như nào? Chương trình tặng quà tương tự được chạy trong tất cả các máy chủ sử dụng bot.\n\nNó làm cho các máy chủ sôi động hơn, và cho mọi người một cơ hội để có Nitro! Mời con bot về máy chủ của bạn bằng các nhấn vào cái nút bên dưới.",
+    "commands": "Các lệnh",
+    "cmdDescriptionSetup": "",
+    "cmdDescriptionPlay": "",
+    "cmdDescriptionFeed": "",
+    "cmdDescriptionInventory": "",
+    "cmdDescriptionVote": "",
+    "cmdDescriptionHelp": "",
+    "cmdDescriptionNarwhal": "",
+    "cmdDescriptionConfig": "",
+    "cmdDescriptionRedeem": "",
+    "cmdDescriptionOpen": "",
+    "cmdDescriptionItem": "",
+    "cmdDescriptionBuy": ""
 }
