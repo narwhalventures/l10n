@@ -40,5 +40,20 @@
     "boxNoItems": "不幸的是，你没有从这个盒子里得到任何东西。祝你下次好运！",
     "boxOpenHeader": "你的奖励",
     "inventoryBoxes": "你有的箱子",
-    "buttonWrongUser": ""
+    "buttonWrongUser": "",
+    "helpTitle": "",
+    "helpDescription": "",
+    "commands": "",
+    "cmdDescriptionSetup": "",
+    "cmdDescriptionPlay": "",
+    "cmdDescriptionFeed": "",
+    "cmdDescriptionInventory": "",
+    "cmdDescriptionVote": "",
+    "cmdDescriptionHelp": "",
+    "cmdDescriptionNarwhal": "",
+    "cmdDescriptionConfig": "",
+    "cmdDescriptionRedeem": "",
+    "cmdDescriptionOpen": "",
+    "cmdDescriptionItem": "",
+    "cmdDescriptionBuy": ""
 }
