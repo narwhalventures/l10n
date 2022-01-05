@@ -56,6 +56,8 @@
   "cmdDescriptionOpen": "Used to open gift bags and boxes.",
   "cmdDescriptionItem": "Gives you information about an item.",
   "cmdDescriptionBuy": "Gives you the opportunity to buy any gift bags/boxes for sale.",
-  "itemFeedMax": "That fish is too big for The Narwhal to eat now, try a smaller fish or wait for the next giveaway!"
+  "itemFeedMax": "That fish is too big for The Narwhal to eat now, try a smaller fish or wait for the next giveaway!",
+  "supportServer": "Support Server",
+  "ourWebsite": "Our Website",
+  "inviteTheBot": "Invite the Bot"
 }
-
