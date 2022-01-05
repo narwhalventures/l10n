@@ -55,6 +55,7 @@
   "cmdDescriptionRedeem": "Used to redeem an item.",
   "cmdDescriptionOpen": "Used to open gift bags and boxes.",
   "cmdDescriptionItem": "Gives you information about an item.",
-  "cmdDescriptionBuy": "Gives you the opportunity to buy any gift bags/boxes for sale."
+  "cmdDescriptionBuy": "Gives you the opportunity to buy any gift bags/boxes for sale.",
+  "itemFeedMax": "That fish is too big for The Narwhal to eat now, try a smaller fish or wait for the next giveaway!"
 }
 
