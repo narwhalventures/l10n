@@ -16,7 +16,7 @@ Object.filter = (obj, predicate) =>
 
 module.exports = (key, language, replaceData = {}) => {
   let chosenL = languages[language]
-  if(!chosenL) return `No language with code ${language} found!`
+  if(!chosenL) chosenL = languages["en"]
   let string = chosenL[key]
   if(!string) string = languages["en"][key]
   string = t(string, replaceData)
