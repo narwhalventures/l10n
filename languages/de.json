@@ -1,7 +1,7 @@
 {
     "narwhal": "Narwal",
     "theNarwhal": "Der Narwal",
-    "botBanned": "Du bist bei dem Narwal gebannt und kannst deshalb keine Befehle benutzen. Für mehr Informationen kontaktiere den Support hier: {support}\n\nGrund des Bans: ```{reason}```",
+    "botBanned": "Du bist bei dem Narwal gebannt und kannst deshalb keine Befehle benutzen.\nFür mehr Informationen kontaktiere den Support hier: {support}\n\nGrund des Bans: ```{reason}```",
     "error": "Ein Fehler ist aufgetreten! Bitte melde diesen Fehler im Support Server.\nID: {id}\nServer: {invite}",
     "commandNotFound": "Dieser Befehl existiert nicht!",
     "commandCooldown": "Du kannst den Befehl {timer} wiederverwenden.",
