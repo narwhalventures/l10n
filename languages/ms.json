@@ -55,5 +55,15 @@
     "cmdDescriptionRedeem": "Digunakan untuk menebuskan item.",
     "cmdDescriptionOpen": "Digunakan untuk membuka beg dan kotak hadiah.",
     "cmdDescriptionItem": "Memberikan informasi tentang sesuatu item.",
-    "cmdDescriptionBuy": "Memberikan anda peluang untuk membeli beg/kotak hadiah dengan promosi."
+    "cmdDescriptionBuy": "Memberikan anda peluang untuk membeli beg/kotak hadiah dengan promosi.",
+    "finish": "Selesai",
+    "addOne": "Tambah 1",
+    "codeGenTitle": "Sistem Penjanaan Kod",
+    "items": "Item-item",
+    "yourCode": "Kod Anda",
+    "codeGenDesc": "Selamat datang ke Sistem Penjanaan Kod. Di sini, anda boleh menukarkan item-item anda ke suatu kod apabila diminta oleh pekerja bot ini.\nGunakan butang di bawah untuk menambahkan item-item ke kod anda!",
+    "supportServer": "Server Pertolongan",
+    "ourWebsite": "Laman Web Kami",
+    "inviteTheBot": "Jemputkan Bot",
+    "itemFeedMax": "Ikan tersebut terlalu besar untuk dimakan oleh The Narwhal sekarang, cuba memberikannya ikan yang lebih kecil atau tunggu sehingga pemberian hadiah yang seterusnya!"
 }
