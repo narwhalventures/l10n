@@ -4,7 +4,7 @@
     "botBanned": "Anda telah dilarangkan daripa The Narwhal, dan tidak akan dapat menggunakan semua perintah.\nUntuk informasi lanjutan, sila hubungi kami di {support}\n\nAlasan larangan: ```{reason}```",
     "error": "Suatu ralat telah muncul! Sila melaporkan ralat ini di server kami.\nID: {id}\nServer: {invite}",
     "commandNotFound": "Perintah ini tidak wujud!",
-    "commandCooldown": "Anda boleh menggunakan perintah ini dalam {timer}",
+    "commandCooldown": "Anda boleh menggunakan perintah ini dalam {timer}.",
     "ping": "Ping! {time} ms",
     "setupSuccess": "Anda telah menetapkan tetapan server dengan berjaya!",
     "votedAlready": "Anda sudah mengundi dalam 12 jam yang lalu! Anda boleh mengundi lagi dalam {timer}.",
@@ -35,7 +35,7 @@
     "cancel": "Batal",
     "notEnoughPrice": "Anda tidak mempunyai {item} yang cukup untuk membeli kotak itu!",
     "purchaseConfirm": "Adakah anda mahu membeli kotak ini untuk {price}?",
-    "boxHasNone": "Anda tidak mempunyai kotak itu",
+    "boxHasNone": "Anda tidak mempunyai kotak itu.",
     "boxOpen": "Membuka Kotak",
     "boxNoItems": "Malangnya, anda tidak mendapat apa-apa barang dari kotak ini. Sila cuba lagi!",
     "boxOpenHeader": "Hadiah Anda",
@@ -65,5 +65,7 @@
     "supportServer": "Server Pertolongan",
     "ourWebsite": "Laman Web Kami",
     "inviteTheBot": "Jemputkan Bot",
-    "itemFeedMax": "Ikan tersebut terlalu besar untuk dimakan oleh The Narwhal sekarang, cuba memberikannya ikan yang lebih kecil atau tunggu sehingga pemberian hadiah yang seterusnya!"
+    "itemFeedMax": "Ikan tersebut terlalu besar untuk dimakan oleh The Narwhal sekarang, cuba memberikannya ikan yang lebih kecil atau tunggu sehingga pemberian hadiah yang seterusnya!",
+    "codeMissingItems": "Malangnya, anda tidak mempunyai item yang secukupnya untuk selesaikan kod.\nAnda tidak mempunyai item-item yang berikut: {items}",
+    "winnerDm": "Anda telah memenangi {prize}! Anda mempunyai 12 jam untuk menuntut hadiah anda, pekerja bot ini akan menghantar \"friend request\" dan anda perlu menerima permintaan tersebut, atau sertai server kami untuk bantuan!"
 }
