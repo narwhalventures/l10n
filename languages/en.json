@@ -59,5 +59,11 @@
   "itemFeedMax": "That fish is too big for The Narwhal to eat now, try a smaller fish or wait for the next giveaway!",
   "supportServer": "Support Server",
   "ourWebsite": "Our Website",
-  "inviteTheBot": "Invite the Bot"
+  "inviteTheBot": "Invite the Bot",
+  "items": "Items",
+  "finish": "Finish",
+  "yourCode": "Your Code",
+  "addOne": "Add 1",
+  "codeGenDesc": "Welcome to the Code Generator. Here, you can convert your items into a code when requested by staff.\nUse the buttons below to add items to your code!",
+  "codeGenTitle": "Code Generator"
 }
