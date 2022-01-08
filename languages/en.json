@@ -64,6 +64,7 @@
   "finish": "Finish",
   "yourCode": "Your Code",
   "addOne": "Add 1",
+  "removeOne": "Remove 1",
   "codeGenDesc": "Welcome to the Code Generator. Here, you can convert your items into a code when requested by staff.\nUse the buttons below to add items to your code!",
   "codeGenTitle": "Code Generator",
   "codeMissingItems": "Unfortunately, you don't have enough items to finish the code.\nYou are missing the following items: {items}",
