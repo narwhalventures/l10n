@@ -67,6 +67,6 @@
     "inviteTheBot": "Jemputkan Bot",
     "itemFeedMax": "Ikan tersebut terlalu besar untuk dimakan oleh The Narwhal sekarang, cuba memberikannya ikan yang lebih kecil atau tunggu sehingga pemberian hadiah yang seterusnya!",
     "codeMissingItems": "Malangnya, anda tidak mempunyai item yang secukupnya untuk selesaikan kod.\nAnda tidak mempunyai item-item yang berikut: {items}",
-    "winnerDm": "Anda telah memenangi {prize}! Anda mempunyai 12 jam untuk menuntut hadiah anda, pekerja bot ini akan menghantar \"friend request\" dan anda perlu menerima permintaan tersebut, atau sertai server kami untuk bantuan!",
+    "winnerDm": "Anda telah memenangi {prize}! Anda mempunyai 12 jam untuk menuntut hadiah anda, kakitangan bot ini akan menghantar \"friend request\" dan anda perlu menerima permintaan tersebut, atau sertai server kami untuk bantuan!",
     "removeOne": "Buang 1"
 }
