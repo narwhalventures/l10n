@@ -66,6 +66,7 @@
     "supportServer": "Server Hỗ Trợ",
     "ourWebsite": "Trang Web của Chúng Tôi",
     "inviteTheBot": "Mời Bot",
-    "winnerDm": "Bạn đã giành được {prize}! Bạn có 12 giờ để nhận phần quà, hãy chú ý đến lời mời kết bạn từ các staff hoặc tham gia vào support server để được hỗ trợ!",
-    "codeGenDesc": "Chào mừng đến với Code Generator. Đây, bạn có thể chuyển đổi vật phẩm thành code khi staff yêu cầu.\nDùng các nút bên dưới để thêm vật phẩm vào code!"
+    "winnerDm": "Bạn đã giành được {prize}! Bạn có 12 giờ để nhận phần quà, và bạn có thể tham gia the Narwhal server và mở một ticket ở đó!",
+    "codeGenDesc": "Chào mừng đến với Code Generator. Đây, bạn có thể chuyển đổi vật phẩm thành code khi staff yêu cầu.\nDùng các nút bên dưới để thêm vật phẩm vào code!",
+    "removeOne": "Bỏ 1"
 }
