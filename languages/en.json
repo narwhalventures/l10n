@@ -31,7 +31,7 @@
   "setupNotComplete": "This server has not been setup yet!",
   "noPermission": "You do not have permission to use this command!",
   "boxNotFound": "That box doesn't exist!",
-  "botUnavailable": "That box is currently unavailable!",
+  "boxUnavailable": "That box is currently unavailable!",
   "purchase": "Purchase",
   "cancel": "Cancel",
   "notEnoughPrice": "You don't have enough {item} to buy that box!",
