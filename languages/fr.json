@@ -1,1 +1,5 @@
-{}
+{
+    "narwhal": "Narval",
+    "theNarwhal": "Le Narval",
+    "botBanned": "Vous avez été banni du Narval, et ne peux plus utiliser des commandes.\nPour plus d'information, SVP nous contacter chez {support}\n\nRaison de l'interdiction : ```{reason}```"
+}
