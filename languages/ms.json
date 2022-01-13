@@ -30,7 +30,6 @@
     "setupNotComplete": "Server ini belum membuat tetapan lagi!",
     "noPermission": "Anda tidak mempunyai hak untuk menggunakan perintah ini!",
     "boxNotFound": "Kotak itu tidak wujud!",
-    "botUnavailable": "Kotak itu belum disediakan lagi!",
     "purchase": "Pembelian",
     "cancel": "Batal",
     "notEnoughPrice": "Anda tidak mempunyai {item} yang cukup untuk membeli kotak itu!",

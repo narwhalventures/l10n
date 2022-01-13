@@ -30,7 +30,6 @@
     "setupNotComplete": "Server này chưa được thiết lập!",
     "noPermission": "Bạn không có quyền để dùng lệnh này!",
     "boxNotFound": "Hộp này không tồn tại!",
-    "botUnavailable": "Hộp này hiện không có sẵn!",
     "purchase": "Mua",
     "cancel": "Hủy",
     "notEnoughPrice": "Bạn không có đủ {item} để mua hộp này!",

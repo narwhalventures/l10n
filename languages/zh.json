@@ -30,7 +30,6 @@
     "setupNotComplete": "",
     "noPermission": "你不允许使用这个命令！",
     "boxNotFound": "这盒子不存在！",
-    "botUnavailable": "",
     "purchase": "买",
     "cancel": "取消",
     "notEnoughPrice": "你没有够多{item}来买这个盒子！",

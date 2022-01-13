@@ -30,7 +30,6 @@
     "setupNotComplete": "Dieser Server wurde noch nicht eingerichtet!",
     "noPermission": "Du hast keine Berechtigung diesen Befehl zu benutzen!",
     "boxNotFound": "Diese Box existiert nicht!",
-    "botUnavailable": "Diese Box ist aktuell nicht verfügbar!",
     "purchase": "Kaufen",
     "cancel": "Abbrechen",
     "notEnoughPrice": "Du hast nicht genug {item} um diese Box zu kaufen!",
