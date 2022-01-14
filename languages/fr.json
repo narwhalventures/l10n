@@ -1,5 +1,25 @@
 {
     "narwhal": "Narval",
     "theNarwhal": "Le Narval",
-    "botBanned": "Vous avez été banni du Narval, et ne peux plus utiliser des commandes.\nPour plus d'information, SVP nous contacter chez {support}\n\nRaison de l'interdiction : ```{reason}```"
+    "botBanned": "Vous avez été banni du Narval, et ne peux plus utiliser des commandes.\nPour plus d'information, SVP nous contacter chez {support}\n\nRaison de l'interdiction : ```{reason}```",
+    "error": "Il y a eu un problème avec Le Narval ! SVP nous le dire dans notre serveur de support.\nID : {id}\nServeur : {invite}",
+    "commandNotFound": "Ce commande n'existe pas !",
+    "commandCooldown": "Vous pouvez utiliser ce commande encore en {timer} .",
+    "ping": "Ping ! {time} ms",
+    "setupSuccess": "Vous avez modifié les paramètres du guilde avec succés!",
+    "votedAlready": "Vous avez deja voté dans les 12 dernières heures ! Vous pouvez voter encore en {timer}.",
+    "votedSuccess": "Merci d'avoir voté ! Vous avez reçu {amount} {prize} !",
+    "voteLink": "Voter sur Top.gg",
+    "itemHasNone": "Vous n'avez pas cet élément !",
+    "itemInvalid": "Cet élément n'est pas valide !",
+    "itemFedRecently": "Vous avez nourrit Le Narval récemment, SVP attendre un peut pour me nourrir.",
+    "itemFeed": "Le Narval accepte joyeusement votre {item}, et vous recompense avec {amount} {reward} !",
+    "inventoryTitle": "Votre inventaire",
+    "inventoryBoxes": "Vos Caisses",
+    "inventoryEmpty": "Votre inventaire est vide !",
+    "redeemSuccess": "Ouais ! Vous avez racheté votre {item} and got {amount} {reward}.",
+    "redeemBonus": "Vous avez aussi gagné {amount} {reward} !",
+    "votedNo": "Voter pour Le Narval sur Top.gg tous les 12 heures pour recevoir un prix!\nAprès que vous avez voté, utiliser ce commande une deuxième fois pour recevoir votre prix!\nSi vous voyez encore ce message après avoir voté, attender quelques minutes et réessayer.",
+    "playSuccess": "Ouais, j'ai eu du fun ! Vous avez gagné {amount} {reward} !",
+    "movedToSlash": "Bonjour ! Nous utilisons maintenant des \"Commandes Slash\" au lieu des commandes ordinaires. Essayer les aujourd'hui, et faites nous savoir dans notre serveur de support si vous avez des problèmes ou des questions !"
 }
