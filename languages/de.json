@@ -46,7 +46,7 @@
     "cmdDescriptionSetup": "Wird benutzt, um den Bot einzurichten. (Nir füe Admins)",
     "cmdDescriptionPlay": "Gibt dir ein zufälliges Item, dass deine Teilnahmen an Gewinnspielen erhöhen kann.",
     "cmdDescriptionFeed": "Wenn du einen Fisch bekommst, kannst du diese dem Narwal mit diesem Befehl geben, um ihn zu füttern.",
-    "cmdDescriptionInventory": "Zeigt dein Inventar",
+    "cmdDescriptionInventory": "Zeigt dein Inventar.",
     "cmdDescriptionVote": "Gibt dir den Link, um für den Bot abzustimmen und für das Abstimmen bekommst du auch Preise.",
     "cmdDescriptionHelp": "Dieser Befehl hilft dir.",
     "cmdDescriptionNarwhal": "Erhalte einen zufälligen Fakt über Narwale.",
@@ -67,5 +67,7 @@
     "codeMissingItems": "Leider hast su nicht genug Items um den Code zu beenden.\nDir fehlen folgende Items: {items}",
     "winnerDm": "Du hast {prize} gewonnen! Du hast 12 Stunden um deinen Preis einzufordern. Dies kannst du tun, indem du dem Narwal Support Server beitrittst und dort ein Ticket öffnest!",
     "removeOne": "Nehme 1 weg",
-    "itemFeedMax": "Dieser Fisch ist aktuell zu groß für den Narwal. Probiere es mit einem kleineren Fisch oder warte bis zum nächsten Gewinnspiel!"
+    "itemFeedMax": "Dieser Fisch ist aktuell zu groß für den Narwal. Probiere es mit einem kleineren Fisch oder warte bis zum nächsten Gewinnspiel!",
+    "giveawaySelectOne": "Wähle hier ein Gewinnspiel aus!",
+    "boxUnavailable": "Diese Box ist zurzeit nicht verfügbar!"
 }
