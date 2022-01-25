@@ -32,5 +32,10 @@
     "boxOpenHeader": "Vos prix",
     "buttonWrongUser": "Ce bouton n'est pas pour vous !",
     "helpTitle": "C'est quoi Le Narval ?",
-    "boxNoItems": "Malheuresement, vous n'avez rien reçu de cet caisse. Mais, courage pour la prochaine fois !"
+    "boxNoItems": "Malheuresement, vous n'avez rien reçu de cet caisse. Mais, courage pour la prochaine fois !",
+    "giveawayEnter": "Vous êtes maintentant inscris dans cet evènement !",
+    "languageSet": "Votre langage a été modifié à {language} !",
+    "setupNotComplete": "Cette serveur n'a pas été mis en place encore !",
+    "giveawayEntered": "Vous vous êtes déja inscris dans cet evènement !",
+    "giveawayServerLimit": "Vous êtes à la limite du nombre de serveurs d'où vous pouvez vous inscrire dans cet evènement ! Utilisez plutôt des  poissons."
 }
