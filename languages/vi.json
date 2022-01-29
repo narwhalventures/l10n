@@ -68,5 +68,6 @@
     "winnerDm": "Bạn đã giành được {prize}! Bạn có 12 giờ để nhận phần quà, và bạn có thể tham gia the Narwhal server và mở một ticket ở đó!",
     "codeGenDesc": "Chào mừng đến với Code Generator. Đây, bạn có thể chuyển đổi vật phẩm thành code khi staff yêu cầu.\nDùng các nút bên dưới để thêm vật phẩm vào code!",
     "removeOne": "Bỏ 1",
-    "giveawaySelectOne": "Chọn giveaway bên dưới!"
+    "giveawaySelectOne": "Chọn giveaway bên dưới!",
+    "boxUnavailable": "Hộp này hiện không có sẵn!"
 }
