@@ -41,7 +41,7 @@
     "votedAlready": "¡Ya has votado en las últimas 12 horas! Puedes votar de nuevo {timer}.",
     "inventoryBoxes": "Tus cajas",
     "inventoryEmpty": "¡Tu inventario está vacío!",
-    "votedNo": "¡Vota por El Narval en Top.gg cada 12 horas para ganar un premio!\nUna vez que hayas votado, ¡Ejecuta este comando de nuevo para ganar tu premio!\nSi sigues viendo este mensaje después de haber votado, espera unos minutos e inténtalo de nuevo.",
+    "votedNo": "¡Vota por El Narval en Top.gg cada 12 horas para ganar un premio!",
     "playSuccess": "¡Yay, eso fue divertido! ¡Ganaste {amount} {reward}!",
     "redeemSuccess": "¡Yay! Has canjeado tu {item} y has obtenido {amount} {reward}.",
     "movedToSlash": "¡Hola! Hemos actualizado para usar comandos de barra diagonal en lugar de comandos regulares. ¡Pruébalos hoy y haznos saber en nuestro servidor de soporte si tienes algún problema o pregunta!",

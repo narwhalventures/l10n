@@ -10,7 +10,7 @@
     "votedAlready": "Anda sudah mengundi dalam 12 jam yang lalu! Anda boleh mengundi lagi dalam {timer}.",
     "votedSuccess": "Terima kasih kerana mengundi! Anda telah dihadiahkan {amount} {prize}!",
     "voteLink": "Mengundi di Top.gg",
-    "votedNo": "Anda boleh mengundi di Top.gg setiap 12 jam untuk memenangi hadiah!\nSelepas anda telah mengundi, gunakan perintah ini sekali lagi untuk menuntut hadiah anda!\nJika mesej ini masih dipaparkan selepas anda telah mengundi, tunggu beberapa minit dan cuba lagi.",
+    "votedNo": "Anda boleh mengundi di Top.gg setiap 12 jam untuk memenangi hadiah!",
     "itemInvalid": "Item ini tidak wujud!",
     "itemHasNone": "Anda tidak mempunyai item tersebut!",
     "giveawaysNoneActive": "Tiada pemberian hadiah yang sedang dilaksanakan sekarang. Sila cuba sebentar lagi.",

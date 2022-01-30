@@ -19,7 +19,7 @@
     "inventoryEmpty": "Votre inventaire est vide !",
     "redeemSuccess": "Ouais ! Vous avez racheté votre {item} and got {amount} {reward}.",
     "redeemBonus": "Vous avez aussi gagné {amount} {reward} !",
-    "votedNo": "Voter pour Le Narval sur Top.gg tous les 12 heures pour recevoir un prix !\nAprès que vous avez voté, utiliser ce commande une deuxième fois pour recevoir votre prix !\nSi vous voyez encore ce message après avoir voté, attender quelques minutes et réessayer.",
+    "votedNo": "Voter pour Le Narval sur Top.gg tous les 12 heures pour recevoir un prix !",
     "playSuccess": "Ouais, j'ai eu du fun ! Vous avez gagné {amount} {reward} !",
     "movedToSlash": "Bonjour ! Nous utilisons maintenant des \"Commandes Slash\" au lieu des commandes ordinaires. Essayer les aujourd'hui, et faites nous savoir dans notre serveur de support si vous avez des problèmes ou des questions !",
     "giveawaysNoneActive": "Il n'y a pas d'évènement actif en ce moment. SVP ressayer plus tard.",

@@ -10,7 +10,7 @@
     "votedAlready": "",
     "votedSuccess": "谢谢帮我们投票！你得到了 {amount} {prize}!",
     "voteLink": "在 Top.gg 投票",
-    "votedNo": "给 The Narwhal 投票在 Top.gg 每十二个小时来得到一个奖品！\n你投票完事的时候在从新发一次！\n如果你投票完事还看到这个信息的话，请你在等两分钟在从事一遍。",
+    "votedNo": "给 The Narwhal 投票在 Top.gg 每十二个小时来得到一个奖品！",
     "itemInvalid": "",
     "itemHasNone": "你没有这个物品！",
     "giveawaysNoneActive": "",

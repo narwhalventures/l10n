@@ -10,7 +10,7 @@
     "votedAlready": "Bạn đã vote trong 12 giờ qua! Bạn có thể vote lại {timer}.",
     "votedSuccess": "Cảm ơn vì đã vote! Bạn nhận được {amount} {prize}!",
     "voteLink": "Vote trên Top.gg",
-    "votedNo": "Vote cho The Narwhal trên Top.gg cứ sau 12 giờ để nhận phần thưởng!\nMột khi bạn đã vote, dùng lại lệnh này để nhận phần thưởng!\nNếu bạn vẫn còn thấy dòng chữ này sau khi bạn đã vote, hãy đợi vài phút rồi thử lại sau.",
+    "votedNo": "Vote cho The Narwhal trên Top.gg cứ sau 12 giờ để nhận phần thưởng!",
     "itemInvalid": "Vật phẩm không hợp lệ!",
     "itemHasNone": "Bạn không có món vật phẩm đó!",
     "giveawaysNoneActive": "Hiện tại không có giveaway nào đang diễn ra. Vui lòng thử lại sau.",

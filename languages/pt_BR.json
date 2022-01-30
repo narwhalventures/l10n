@@ -55,7 +55,7 @@
     "error": "Um erro aconteceu! Por favor reporte-o no servidor de suporte\nID: {id}\nServidor: {invite}",
     "votedAlready": "Você já votou nas últimas 12 horas! Você poderá votar novamente em {timer}.",
     "votedSuccess": "Obrigado por votar! Você ganhou {amount} {prize}!",
-    "votedNo": "Vote no Narval no Top.gg a cada 12 horas para ganhar um prêmio!\nUma vez que você votou, faça esse comando novamente para ganhar o prêmio\nSe você ainda está vendo isso depois de ter votado, espere alguns minutos e tente novamente.",
+    "votedNo": "Vote no Narval no Top.gg a cada 12 horas para ganhar um prêmio!",
     "itemFedRecently": "Você alimentou o Narval recentemente, por favor espere por um momento para alimentar-me novamente.",
     "redeemSuccess": "Oba! Você resgatou o seu {item} e consegui {amount} {reward}.",
     "giveawayServerLimit": "Você já chegou ao máximo de server que pode entrar. Tente usar items que possam aumentar suas entradas em vez disso.",

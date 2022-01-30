@@ -10,7 +10,7 @@
     "votedAlready": "Du hast bereits in den letzten 12 Stunden abgestimmt. Du kannst wieder {timer} abstimmen.",
     "votedSuccess": "Danke fürs abstimmen! Du hast {amount} {prize} bekommen!",
     "voteLink": "Stimme auf Top.gg ab",
-    "votedNo": "Stimme für den Narwal alle 12 Stunden auf Top.gg ab, um einen Preis zu erhalten! \nSobald du abgestimmt hast benutze diesen Befehl nochmal, um dein Preis abzuholen. \nWenn du diese Nachricht, nachdem du abgestimmt hast, immer noch siehst, versuche es in ein paar Minuten erneut.",
+    "votedNo": "Stimme für den Narwal alle 12 Stunden auf Top.gg ab, um einen Preis zu erhalten!",
     "itemInvalid": "Dieses Item ist ungültig!",
     "itemHasNone": "Du besitzt dieses Item nicht!",
     "giveawaysNoneActive": "Es gibt zurzeit keine aktiven Gewinnspiele. Bitte versuche es später erneut.",
