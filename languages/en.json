@@ -10,7 +10,7 @@
   "votedAlready": "You've already voted in the last 12 hours! You may vote again {timer}.",
   "votedSuccess": "Thanks for voting! You've earned {amount} {prize}!",
   "voteLink": "Vote on Top.gg",
-  "votedNo": "Vote for The Narwhal on Top.gg every 12 hours to earn a prize!\nOnce you've voted, run this command again to earn your prize!\nIf you're still seeing this message after you've voted, wait a few minutes and try again.",
+  "votedNo": "Vote for The Narwhal on Top.gg every 12 hours to earn a prize!",
   "itemInvalid": "That item is invalid!",
   "itemHasNone": "You don't have that item!",
   "giveawaysNoneActive": "There are no active giveaways right now. Please try again later.",
